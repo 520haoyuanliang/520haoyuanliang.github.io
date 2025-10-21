@@ -56,6 +56,7 @@ SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learni
 <dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS'25</strong>), 2025, <strong><font color=Red>CCF-A</font></strong></dd>
 </dl>
 <br>
+
 ***
 
 <dl>
@@ -86,6 +87,7 @@ Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and W
 <br>
 <br>
 <br>
+
 ***
 
 
