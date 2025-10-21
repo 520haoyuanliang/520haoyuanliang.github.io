@@ -42,8 +42,9 @@ And beyond research, if you’d like to **chat about fitness or basketball**, or
 
 ## 📝 Publications
 <dl>
-<dt><img align="left" width="350" height="100"
-hspace="0" wspace="0" src="../images/SPFL.png" style="margin-right: 20px;">
+<dt><img align="left" width="350" height="250"
+hspace="0" wspace="0" src="../images/SPFL.png"
+style="margin-right: 20px; margin-bottom: 0; vertical-align: middle;">
 </dt>
 <dd><a href="https://neurips.cc/virtual/2025/poster/118827"><strong>	
 SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learning under Category and Domain Shifts
@@ -57,7 +58,7 @@ SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learni
 
 <dl>
 <dt><img align="left" width="350" height="250"
-hspace="0" wspace="0" src="../images/SPFL.png"
+hspace="0" wspace="0" src="../images/mFedDG.png"
 style="margin-right: 20px; margin-bottom: 0; vertical-align: middle;">
 </dt>
 <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34053"><strong>	
