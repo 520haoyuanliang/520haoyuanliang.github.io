@@ -46,7 +46,7 @@ And beyond research, if you’d like to **chat about fitness or basketball**, or
 
 ## 📝 Publications
 <dl>
-<dt><img align="left" width="350" height="150"
+<dt><img align="left" width="350" height="100"
 hspace="0" wspace="0" src="../images/SPFL.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://neurips.cc/virtual/2025/poster/118827"><strong>	
@@ -75,7 +75,7 @@ TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generaliz
 ***
 
 <dl>
-<dt><img align="left" width="350" height="250"
+<dt><img align="left" width="350" height="350"
 hspace="0" wspace="0" src="../images/ICME.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://2025.ieeeicme.org/"><strong>	
