@@ -46,7 +46,7 @@ And beyond research, if you’d like to **chat about fitness or basketball**, or
 
 ## 📝 Publications
 <dl>
-<dt><img align="left" width="350" height="250"
+<dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/SPFL.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://neurips.cc/virtual/2025/poster/118827"><strong>	
@@ -75,7 +75,7 @@ TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generaliz
 ***
 
 <dl>
-<dt><img align="left" width="350" height="150"
+<dt><img align="left" width="350" height="250"
 hspace="0" wspace="0" src="../images/ICME.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://2025.ieeeicme.org/"><strong>	
@@ -91,7 +91,7 @@ Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and W
 ***
 
 
-## 🙂 Other Publication
+### Other Publication
 1. Yushan Lai, Guowen Li, **Haoyuan Liang**, Juepeng Zheng, Zhiyu Ye. [ADU: Adaptive Detection of Unknown Categories in Black-Box Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_ADU_Adaptive_Detection_of_Unknown_Categories_in_Black-Box_Domain_Adaptation_CVPR_2025_paper.html). The Thirty-Sixth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25), 2025 **<font color=Red>(CCF-A)</font>**
 2. Zhiyu Ye, Guowen Li, **Haoyuan Liang**, Zixi Wang, Shilei Cao, Yushan Lai, Juepeng Zheng. Quantifying Samples with Invariance for Source-Free Class Incremental Domain Adaptation. the 33rd ACM International Conference on Multimedia (MM'25) **<font color=Red>(CCF-A)</font>**
 3. Jielong Tang, Yang Yang, Jianxing Yu, Zhen-Xing Wang, **Haoyuan Liang**, Liang Yao, Jian Yin. UnCo: Uncertainty-Driven Collaborative Framework of Large and Small Models for Grounded Multimodal NER. The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25) **<font color=Blue>(CCF-B)</font>**
