@@ -41,22 +41,8 @@ And beyond research, if you’d like to **chat about fitness or basketball**, or
 - 2024.12: 🎉🎉 One papers were accepted by AAAI'25 !
 
 ## 📝 Publications
-<div style="overflow: hidden; margin-bottom: 15px;">
-  <img align="left" width="350" height="250"
-  src="../images/SPFL.png"
-  style="margin-right: 20px; margin-bottom: 0; vertical-align: middle;">
-  
-  <p style="margin-top: 0;">
-    <a href="https://neurips.cc/virtual/2025/poster/118827">
-      <strong>SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learning under Category and Domain Shifts</strong>
-    </a><br>
-    <strong>Haoyuan Liang</strong>, Shilei Cao, Guowen Li, Zhiyu Ye, Haohuan Fu, Juepeng Zheng.<br>
-    The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS'25</strong>), 2025,
-    <strong><font color=Red>CCF-A</font></strong>
-  </p>
-</div>
+<dl> <dt><img align="left" width="350" height="350" hspace="0" wspace="0" src="../images/SPFL.png" style=";margin-right: 20px;"> </dt> <dd><a href="https://neurips.cc/virtual/2025/poster/118827"><strong> SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learning under Category and Domain Shifts </strong></a></dd> <dd><strong>Haoyuan Liang</strong>, Shilei Cao, Guowen Li, Zhiyu Ye, Haohuan Fu, Juepeng Zheng.</dd> <dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS'25</strong>), 2025, <strong><font color=Red>CCF-A</font></strong></dd> </dl>
 
-<hr style="margin: 20px 0;">
 
 
 <dl>
