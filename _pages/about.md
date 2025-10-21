@@ -55,9 +55,6 @@ SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learni
 <dd><strong>Haoyuan Liang</strong>, Shilei Cao, Guowen Li, Zhiyu Ye, Haohuan Fu, Juepeng Zheng.</dd>
 <dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS'25</strong>), 2025, <strong><font color=Red>CCF-A</font></strong></dd>
 </dl>
-<br>
-<br>
-<br>
 
 ***
 
@@ -84,10 +81,11 @@ hspace="0" wspace="0" src="../images/ICME.png" style="margin-right: 20px;">
 Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and Weights
 </strong></a></dd>
 <dd><strong>Haoyuan Liang</strong>, Shilei Cao, Yushan Lai, Juepeng Zheng.</dd>
-<dd> IEEE International Conference on Multimedia & Expo 2025 (<strong>ICME'25</strong>), 2025, <strong><font color=Blue>CCF-B (Oarl)</font></strong></dd>
+<dd> IEEE International Conference on Multimedia & Expo 2025 (<strong>ICME'25</strong>), 2025, <strong><font color=Blue>CCF-B (Oral)</font></strong></dd>
 </dl>
 <br>
-
+<br>
+<br>
 ***
 
 
