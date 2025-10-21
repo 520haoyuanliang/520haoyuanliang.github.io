@@ -1,56 +1,131 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi,my name is Haoyuan Liang (Chinese: 梁浩源).I am a third-year Master's student at the School of Artificial Intelligence, Sun Yat-sen University.  
+Before that, I obtained my Bachelor's degree from the School of Mechatronic Engineering and Automation,Shanghai University. I am very fortunate to be advised by [Prof. Juepeng Zheng](https://hail-alloy-af4.notion.site/Juepeng-Zheng-d3b70a4b409145139c91e55813cc80fa) at the [Intelligent Geospatial Computing and Sensing (IGCS) Lab](https://rssysu.github.io/).  
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## 📖 Research
+My research interests are broad, spanning several areas in artificial intelligence and large Language model training.  
+In particular, I focus on the following topics:
+- **⭐ Federated Learning**— including domain generalization, and personalized aggregation strategies.  
+- **Multimodal Representation Learning** — exploring cross-modal alignment and knowledge fusion between vision, language, and audio modalities.  
+- **Large Language Model Fine-Tuning** — with an emphasis on parameter-efficient adaptation and optimization of foundation models.  
+- **Mixture-of-Experts (MoE) Architectures** — investigating modular routing, expert specialization, and distributed training efficiency.  
+- **Foundation Models for Remote Sensing** — building large-scale geospatial pretraining frameworks for earth observation and environmental applications.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+## ❤️ Hobby
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Outside of research, I’m also a **fitness enthusiast** 🏋️‍♂️ and **basketball lover** 🏀.  
+Feel free to reach out if you’d like to **work out together** or **play a game** — I’m always up for some healthy competition and training! 💪  
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+💬 In addition, I serve as an **emotional consultant**, and I’m always open to sharing insights or offering advice if you ever need to talk about relationships or personal growth. ❤️
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+📩 <span style="color:blue">
+If you have an exciting idea or would like to collaborate on my research topics, feel free to reach out via 
+[email](mailto:lianghy68@mail2.sysu.edu.cn) or [WeChat](../images/wechat.png) — I’m always open to discussion and new collaborations.  
+And beyond research, if you’d like to **chat about fitness or basketball**, or even **share and talk about life and relationships**, you’re more than welcome to connect with me! 🌟️
+</span>
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## 🔥 News
+- 2025.09: 🎉🎉 One papers were accepted by NeurIPS'25 !
+- 2025.08: 🎉🎉 One papers were accepted by EMNLP'25 !
+- 2025.05: 🎉🎉 One papers were accepted by MM'25.
+- 2025.03: 🎉🎉 One papers were accepted by ICME'25 !
+- 2025.03: 🎉🎉 One paper was accepted by CVPR'25.
+- 2024.12: 🎉🎉 One papers were accepted by AAAI'25 !
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## 📝 Publications
+<dl>
+<dt><img align="left" width="350" height="250"
+hspace="0" wspace="0" src="../images/NIPS.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://neurips.cc/virtual/2025/poster/118827"><strong>	
+SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learning under Category and Domain Shifts
+</strong></a></dd>
+<dd><strong>Haoyuan Liang</strong>, Shilei Cao, Guowen Li, Zhiyu Ye, Haohuan Fu, Juepeng Zheng.</dd>
+<dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS'25</strong>), 2025, <strong><font color=Red>CCF-A</font></strong></dd>
+</dl>
+<br>
+<br>
+<br>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+***
+
+<dl>
+<dt><img align="left" width="350" height="150"
+hspace="0" wspace="0" src="../images/mFedDG.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34053"><strong>	
+TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generalization
+</strong></a></dd>
+<dd><strong>Haoyuan Liang</strong>, Xinyu Zhang, Shilei Cao, Guowen Li, Juepeng Zheng.</dd>
+<dd>The Fortieth AAAI Conference on Artificial Intelligence (<strong>AAAI'2025</strong>), 2025, <strong><font color=Red>CCF-A</font></strong></dd>
+</dl>
+<br>
+<br>
+
+***
+
+<dl>
+<dt><img align="left" width="350" height="150"
+hspace="0" wspace="0" src="../images/ICME.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://2025.ieeeicme.org/"><strong>	
+Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and Weights
+</strong></a></dd>
+<dd><strong>Haoyuan Liang</strong>, Shilei Cao, Yushan Lai, Juepeng Zheng.</dd>
+<dd> IEEE International Conference on Multimedia & Expo 2025 (<strong>ICME'25</strong>), 2025, <strong><font color=Blue>CCF-B (Oarl)</font></strong></dd>
+</dl>
+<br>
+
+***
+
+
+### Other Publication
+1. Yushan Lai, Guowen Li, **Haoyuan Liang**, Juepeng Zheng, Zhiyu Ye. [ADU: Adaptive Detection of Unknown Categories in Black-Box Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_ADU_Adaptive_Detection_of_Unknown_Categories_in_Black-Box_Domain_Adaptation_CVPR_2025_paper.html). The Thirty-Sixth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25), 2025 **<font color=Red>(CCF-A)</font>**
+2. Zhiyu Ye, Guowen Li, **Haoyuan Liang**, Zixi Wang, Shilei Cao, Yushan Lai, Juepeng Zheng. Quantifying Samples with Invariance for Source-Free Class Incremental Domain Adaptation. the 33rd ACM International Conference on Multimedia (MM'25) **<font color=Red>(CCF-A)</font>**
+3. Jielong Tang, Yang Yang, Jianxing Yu, Zhen-Xing Wang, **Haoyuan Liang**, Liang Yao, Jian Yin. UnCo: Uncertainty-Driven Collaborative Framework of Large and Small Models for Grounded Multimodal NER. The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25) **<font color=Blue>(CCF-B)</font>**
+   
+***
+
+
+## 🙂 Preprint
+1. **Haoyuan Liang**, Zhiyu Ye, Jielong Tang, Yang Yang, Shilei Cao, Fei Hu, Guowen Li, Zhiwei Zhang, Haohuan Fu, Juepeng Zheng. UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation. Submitted to The Fourteenth International Conference on Learning Representations (ICLR'2026) **<font color=Red>(CAAI-A)</font>**
+2. Juepeng Zheng, **Haoyuan Liang**, Shilei Cao, Qingmei Li, Yushan Lai, Guowen Li, Haohuan Fu. Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and Weights. Submitted to The IEEE Transactions on Neural Networks and Learning Systems (TNNLS) **<font color=Blue>(CCF-B)</font>**
+
+
+### 🏆 Honor & Award
+
+#### 🎓 Graduate Period (Sun Yat-sen University)
+- 2025.09 National Scholarship (国家奖学金), Sun Yat-sen University  
+- 2025.09 First-Class Academic Scholarship (学业一等奖学金), Sun Yat-sen University   
+- 2025.08 Huawei Innovation Cup – National Final, Research Excellence Award (鲲鹏创新应用大赛全国总决赛科研赛道银奖)  
+- 2025.06 First Prize, 1st National Land Surface Resource Management GIS Application Competition (全国陆表资源管理地理信息技术应用竞赛一等奖)  
+
+#### 🎓 Undergraduate Period (Shanghai University)
+- 2023.06 Outstanding Graduate (优秀毕业生), Shanghai University  
+- 2022.12 National Scholarship (国家奖学金), Shanghai University  
+- 2022.08 MCM/ICM – M Award (美国大学生数学建模竞赛 M 奖)  
+- 2021.12 National Second Prize, China Undergraduate Mathematical Contest in Modeling (全国大学生数学建模竞赛国家级二等奖) 
+- 2021.11 Second Prize, National Advanced Manufacturing Product Innovation Competition (全国大学生先进制造技术与产品信息建模创新大赛国家二等奖) 
+- 🏀 **Runner-up, Three-Point Shooting Contest (三分球大赛亚军)**, School of Mechatronic Engineering and Automation, Shanghai University  
+  
+
+
+## 💬 Academic Service
+### Conference Committee Member
+- Reviewer for ICLR'26
+- Reviewer for ICME'25,MM'24
+  
+### Journal Reviewer
+- Reviewer for Engineering Applications of Artificial Intelligence (EAAI)
