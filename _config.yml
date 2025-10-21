@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : minimal-mistakes-jekyll # Currently available options are "default", "air"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Haoyuan Liang"
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
