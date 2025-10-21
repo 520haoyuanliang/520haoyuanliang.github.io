@@ -75,7 +75,7 @@ TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generaliz
 ***
 
 <dl>
-<dt><img align="left" width="350" height="350"
+<dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/ICME.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://2025.ieeeicme.org/"><strong>	
@@ -84,11 +84,11 @@ Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and W
 <dd><strong>Haoyuan Liang</strong>, Shilei Cao, Yushan Lai, Juepeng Zheng.</dd>
 <dd> IEEE International Conference on Multimedia & Expo 2025 (<strong>ICME'25</strong>), 2025, <strong><font color=Blue>CCF-B (Oral)</font></strong></dd>
 </dl>
-<br>
-<br>
-<br>
 
-***
+<!-- ✅ 正确的清除浮动 + 分割线 -->
+<div style="clear: both;"></div>
+<hr style="margin: 20px 0;">
+
 
 
 ### Other Publication
