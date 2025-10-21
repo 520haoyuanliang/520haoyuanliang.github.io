@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi,my name is Haoyuan Liang (Chinese: 梁浩源).I am a third-year Master's student at the School of Artificial Intelligence, Sun Yat-sen University.  
-Before that, I obtained my Bachelor's degree from the School of Mechatronic Engineering and Automation,Shanghai University. I am very fortunate to be advised by [Prof. Juepeng Zheng](https://hail-alloy-af4.notion.site/Juepeng-Zheng-d3b70a4b409145139c91e55813cc80fa) at the [Intelligent Geospatial Computing and Sensing (IGCS) Lab](https://rssysu.github.io/).  
+Hi,my name is Haoyuan Liang (Chinese: 梁浩源).I am a third-year Master's student at the School of Artificial Intelligence, Sun Yat-sen University. Before that, I obtained my Bachelor's degree from the School of Mechatronic Engineering and Automation,Shanghai University. I am very fortunate to be advised by [Prof. Juepeng Zheng](https://hail-alloy-af4.notion.site/Juepeng-Zheng-d3b70a4b409145139c91e55813cc80fa) at the [Intelligent Geospatial Computing and Sensing (IGCS) Lab](https://rssysu.github.io/).  
 
 
 
 ## 📖 Research
-My research interests are broad, spanning several areas in artificial intelligence and large Language model training.  
-In particular, I focus on the following topics:
+My research interests are broad, spanning several areas in artificial intelligence and large Language model training.  In particular, I focus on the following topics:
 - **⭐ Federated Learning**— including domain generalization, and personalized aggregation strategies.  
 - **Multimodal Representation Learning** — exploring cross-modal alignment and knowledge fusion between vision, language, and audio modalities.  
 - **Large Language Model Fine-Tuning** — with an emphasis on parameter-efficient adaptation and optimization of foundation models.  
@@ -23,9 +21,7 @@ In particular, I focus on the following topics:
 
 ## ❤️ Hobby
 
-Outside of research, I’m also a **fitness enthusiast** 🏋️‍♂️ and **basketball lover** 🏀.  
-Feel free to reach out if you’d like to **work out together** or **play a game** — I’m always up for some healthy competition and training! 💪  
-
+Outside of research, I’m also a **fitness enthusiast** 🏋️‍♂️ and **basketball lover** 🏀.  Feel free to reach out if you’d like to **work out together** or **play a game** — I’m always up for some healthy competition and training! 💪  
 💬 In addition, I serve as an **emotional consultant**, and I’m always open to sharing insights or offering advice if you ever need to talk about relationships or personal growth. ❤️
 
 📩 <span style="color:blue">
