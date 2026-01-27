@@ -33,12 +33,13 @@ And beyond research, if you’d like to **chat about fitness or basketball**, or
 
 
 ## 🔥 News
-- 2025.09: 🎉🎉 One papers were accepted by NeurIPS'25 !
-- 2025.08: 🎉🎉 One papers were accepted by EMNLP'25 !
-- 2025.05: 🎉🎉 One papers were accepted by MM'25.
-- 2025.03: 🎉🎉 One papers were accepted by ICME'25 !
+- 2026.01: 🎉🎉 Two papers were accepted by ICLR'25 !
+- 2025.09: 🎉🎉 One paper was accepted by NeurIPS'25 !
+- 2025.08: 🎉🎉 One paper was accepted by EMNLP'25 !
+- 2025.05: 🎉🎉 One paper was accepted by MM'25.
+- 2025.03: 🎉🎉 One paper was accepted by ICME'25 !
 - 2025.03: 🎉🎉 One paper was accepted by CVPR'25.
-- 2024.12: 🎉🎉 One papers were accepted by AAAI'25 !
+- 2024.12: 🎉🎉 One paper was accepted by AAAI'25 !
 
 ## 📝 Publications
 <dl> <dt><img align="left" width="350" height="350" hspace="0" wspace="0" src="../images/SPFL.png" style=";margin-right: 20px;"> </dt> <dd><a href="https://neurips.cc/virtual/2025/poster/118827"><strong> SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learning under Category and Domain Shifts </strong></a></dd> <dd><strong>Haoyuan Liang</strong>, Shilei Cao, Guowen Li, Zhiyu Ye, Haohuan Fu, Juepeng Zheng.</dd> <dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS'25</strong>), 2025, <strong><font color=Red>CCF-A</font></strong></dd> </dl>
@@ -87,7 +88,7 @@ Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and W
 
 
 ## 🙂 Preprint
-1. **Haoyuan Liang**, Zhiyu Ye, Jielong Tang, Yang Yang, Shilei Cao, Fei Hu, Guowen Li, Zhiwei Zhang, Haohuan Fu, Juepeng Zheng. UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation. Submitted to The Fourteenth International Conference on Learning Representations (ICLR'2026) **<font color=Red>(CAAI-A)</font>**
+1. **Haoyuan Liang**, Zhiyu Ye, Jielong Tang, Yang Yang, Shilei Cao, Fei Hu, Guowen Li, Zhiwei Zhang, Haohuan Fu, Juepeng Zheng. UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation. Submitted to The Fourteenth International Conference on Learning Representations (ICML'2026) **<font color=Red>(CCF-A)</font>**
 2. Juepeng Zheng, **Haoyuan Liang**, Shilei Cao, Qingmei Li, Yushan Lai, Guowen Li, Haohuan Fu. Federated Open-Set Domain Generalization with Adaptive Adjustment Boundary and Weights. Submitted to The IEEE Transactions on Neural Networks and Learning Systems (TNNLS) **<font color=Blue>(CCF-B)</font>**
 
 
